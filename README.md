@@ -18,6 +18,7 @@ You are required to implement Manhattan verifier and report false accept (impost
   3. Report the false accept rate at 0 false reject rate, when N = 100, 200, and 300 [20 points]
 
 -----------------------------------------------------------------
+**Instructions to run program:**
 
 Compile the java files in console:
 
@@ -27,7 +28,6 @@ To run the program, in the console run:
 
 `java Biometric`
 
------------------------------------------------------------------
 
 Once the program is running, follow the prompts to view results.
 
