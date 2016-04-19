@@ -13,9 +13,9 @@ You are required to implement Manhattan verifier and report false accept (impost
 **Program Output:** Clearly display false accept (impostor pass) and false reject rates at a given threshold T.
 
 **Deliverables:**
-1. Well documented, compilable software codes and executables performing template calculation; genuine and impostor score computation with Manhattan distance; and calculation of false accept and false reject rates at a given threshold T. [40 points]
-2. A well-written report containing false accept and false reject rates for N = 200 and various threshold values (choose five threshold values that give you the best tradeoff between the false accept and false reject rates). [40 points]
-3. Report the false accept rate at 0 false reject rate, when N = 100, 200, and 300 [20 points]
+  1. Well documented, compilable software codes and executables performing template calculation; genuine and impostor score computation with Manhattan distance; and calculation of false accept and false reject rates at a given threshold T. [40 points]
+  2. A well-written report containing false accept and false reject rates for N = 200 and various threshold values (choose five threshold values that give you the best tradeoff between the false accept and false reject rates). [40 points]
+  3. Report the false accept rate at 0 false reject rate, when N = 100, 200, and 300 [20 points]
 
 -----------------------------------------------------------------
 
